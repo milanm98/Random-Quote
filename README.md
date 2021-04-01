@@ -11,5 +11,14 @@ Responsive web design and style done with Tailwind css
 
 You can check how it look here : 
 
+Desktop : 
 
-![Screenshot_2021-03-29_10_30_22](https://user-images.githubusercontent.com/62839581/112852480-fb825f80-9079-11eb-9911-1e672816566b.png)
+![DesktopRQ](https://user-images.githubusercontent.com/62839581/113312251-634ed980-930a-11eb-90b4-d81cacfb776f.png)
+
+
+Mobile : 
+
+
+![MobileRQ](https://user-images.githubusercontent.com/62839581/113312277-6b0e7e00-930a-11eb-8aeb-f2b922a42c7b.png)
+
+
